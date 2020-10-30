@@ -1,0 +1,71 @@
+body{
+    background-image: url("b3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.maindiv
+{
+    background-color: black;
+    opacity: 0.5;
+    margin-top: 200px;
+}
+.div1
+{
+    padding: 10px 5px 10px 5px;
+    color: white;
+    font-family: 'Amarante';
+    font-size: 22px;
+
+}
+.div2
+{
+    color:white;
+    font-size:28px; 
+    text-align: center;
+    font-family: 'Battambang';
+}
+.p1
+{
+    color:white;
+    font-size: 22px;
+    font-family: 'Averia Sans Libre';
+}
+.p2
+{
+    color:white;
+    font-size: 20px;
+    font-family: 'Averia Sans Libre';
+}
+#div3
+{
+    text-align: center;
+}
+.t1
+{
+    border: 1px solid white;
+    color:white;
+    text-align: center;
+    font-size:20px;
+    font-family: 'Averia Sans Libre';
+}
+.div4
+{
+
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+	background-color: black;
+    opacity: 0.7;
+    
+}
+.contact
+{
+    font-size: 40px;
+    font-family: "Averia Sans Libre";
+    color:White;
+    margin-top: 20px;
+
+
+}
